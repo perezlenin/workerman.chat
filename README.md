@@ -3,7 +3,6 @@ workerman-chat
 Este repositorio es una copia de https://github.com/walkor/workerman-chat
 
 GatewayWorker documentacion：http://www.workerman.net/gatewaydoc/
-master/Applications/Chat/Event.php)   
   
 INSTALL
 =====
@@ -22,6 +21,7 @@ como demonio
 WINDOWS
 ======
 start_for_win.bat
+
 stop reload status
 
 REFERENCIA
